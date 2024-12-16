@@ -83,11 +83,11 @@ This is a **Contact CataLog** application built using **React.js**, **Node.js**,
 
 ```
 contact-book/
-├── Contact Keeper Backend/           # Backend code (Node.js + Mongodb)
+├──  Backend/           # Backend code (Node.js + Mongodb)
 │   ├── models/        # Database models
 │   ├── routes/        # API routes
 │   └── server.js      # Entry point for backend server
-├── Contact Keeper Frontend/          # Frontend code (React.js)
+├──  Frontend/          # Frontend code (React.js)
 │   ├── src/
 │   ├── public/
 │   └── package.json
